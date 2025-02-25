@@ -1,5 +1,5 @@
 const text =
-  "Dear Kittu, waise toh yhan pe message likhna tha kyuki mere pe kuch hai nahi toh phele play the song, so ye toh ek birthday ppe karne ke liye socha tha but this was damn tricky and mujhe itna aata bhi nahi toh jhan se idea liya tha uski video dekh dekh ke seekh ke kar raha hu ek baat to hai kuch to baat hai hi mere mein :). HOW's IT ?..........  .";
+  "Dear Kittu, First press tap to play :) abhi i am learning this otherwise gaana apne aap play hojata....waise to ye birthday pe karna the but this was damn tricky bhai abhi bhu thorda unorganised tyoe hai utna bhaidya nahi hai but thik hai baki u can enjoy the song. aur kuch nahi hai likhne ko :). HOW's IT ?........  .";
 
 const paragraph = text.split("");
 
